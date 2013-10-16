@@ -6,6 +6,12 @@ Since Urban Dictionary (currently) doesn't have an official API, the definitions
 
  ~~It is available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/gfjijibnpohkjdmbahejpeoilmgjahei)~~. It was once in the Chrome Web Store but I've since transfered ownership to another person.
 
+# Installation
+
+Download the [APP CRX](https://github.com/ltmatos/urbandictionary-search/blob/master/urbandictionary-search.crx?raw=true).
+
+Click the Chrome menu icon ![alt tag](http://developer.chrome.com/static/images/hotdogmenu.png) and select Extensions from the Tools menu. Ensure that the "Developer mode" checkbox in the top right-hand corner is checked. Simply drag the extension .crx file to the extension area.
+
 # License
 
 [WTFPL](http://sam.zoy.org/wtfpl/). 
