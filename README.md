@@ -10,11 +10,11 @@ Since Urban Dictionary (currently) doesn't have an official API, the definitions
 
 Download the [APP CRX](https://github.com/ltmatos/urbandictionary-search/blob/master/urbandictionary-search.crx?raw=true).
 
-Click the Chrome menu icon ![alt tag](http://developer.chrome.com/static/images/hotdogmenu.png) and select Extensions from the Tools menu. Simply drag the extension .crx file to the extension list area.
+__Click__ the Chrome menu icon ![alt tag](http://developer.chrome.com/static/images/hotdogmenu.png) and select __Extensions__ from the __Tools__ menu. Simply __drag the extension .crx file__ to the __extension__ list area.
 
 # Usage
 
-Click the Extension Icon (Browser Action) or press (Ctrl+Shift+U) to open the Extension. If there is text selected on the current Tab of Chrome a search for that text will be triggered. Alternatively you can type 'urban' and press tab in the Chrome address bar (Omnibar) to make a search in [Urban Dictionary](http://www.urbandictionary.com/).
+__Click__ the Extension Icon (Browser Action) or press (__Ctrl+Shift+U__) to open the Extension. If there is __text selected__ on the current Tab of Chrome a __search for that text will be triggered__. Alternatively you can type __'urban' and press tab__ in the Chrome address bar (__Omnibar__) to make a search in [Urban Dictionary](http://www.urbandictionary.com/).
 
 # License
 
